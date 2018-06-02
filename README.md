@@ -1,2 +1,1 @@
-# opoencv
-Learn to use the opencv
+本篇主要介绍如何下载OpenCV安装程序，如何在VS2015和CMAKE下安装配置OpenCV，文章最后还介绍了一个使用OpenCV的简单小例子。
